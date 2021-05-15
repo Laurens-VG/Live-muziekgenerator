@@ -1,4 +1,4 @@
-# MP2020_MIR_Laurens
+# Live muziekgenerator
 Live muziekgenerator op basis van a priori kennis voor aanpasbare artificiële instrumentale muziek
 
 
