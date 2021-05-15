@@ -1,0 +1,10 @@
+numpy
+matplotlib
+librosa
+scipy
+FoxDot
+pandas
+scikit-learn
+openpyxl
+pillow
+xlrd
